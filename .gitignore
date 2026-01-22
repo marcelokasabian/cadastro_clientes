@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.buildozer/
+bin/
+teste*.py
+apache-ant*.tar.gz
